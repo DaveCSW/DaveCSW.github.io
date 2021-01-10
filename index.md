@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+<div>
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Siwen Chen</h1>
+      <p><b>undergraduate student</b></p>
+      <p><b>the Software Institute (SWI) of Nanjing University</b></p>
+      <p><b>email：181250013@smail.nju.edu.cn</b></p>
+      <p><b>address：Nanjing University Xianlin Campus, 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu 210023, China</b></p>
+    </td>
+  </tr>
+</table>
+</div>
 
-You can use the [editor on GitHub](https://github.com/DaveCSW/DaveCSW.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Biography
+    
+    2018.09-present: B.S., the Software Institute (SWI), Nanjing University, Nanjing, Jiangsu, China.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Research Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    Software engineering
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DaveCSW/DaveCSW.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Selected Publications
+    
+    null
